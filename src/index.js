@@ -30,7 +30,7 @@ class App extends React.Component {
           lon: position.coords.longitude
         });
         fetch(
-          `http://api.openweathermap.org/data/2.5/weather?lat=${position.coords.latitude}&lon=${position.coords.longitude}&appid=${process.env.REACT_APP_OPENWEATHER_API_KEY}&units=metric`
+          `https://api.openweathermap.org/data/2.5/weather?lat=${position.coords.latitude}&lon=${position.coords.longitude}&appid=${process.env.REACT_APP_OPENWEATHER_API_KEY}&units=metric`
         )
           .then(res => {
             return res.json();
