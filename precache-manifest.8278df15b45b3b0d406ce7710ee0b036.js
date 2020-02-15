@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31565359c80a9260865bd8fee420fcda",
+    "revision": "608ff48d96600a9120f4ad128d055945",
     "url": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/index.html"
   },
   {
-    "revision": "641499bcb425f1f2fc5a",
+    "revision": "bc5206852d31bde84c85",
     "url": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/css/main.406b7b89.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/2.f53ce05b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "641499bcb425f1f2fc5a",
-    "url": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/main.127d5a8a.chunk.js"
+    "revision": "bc5206852d31bde84c85",
+    "url": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/main.af6ccf86.chunk.js"
   },
   {
     "revision": "b80199d0e583f4fb04e9",
