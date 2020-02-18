@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/precache-manifest.8278df15b45b3b0d406ce7710ee0b036.js"
+  "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/precache-manifest.30e41c6e4ebc8bd4fe5fedd946067e82.js"
 );
 
 self.addEventListener('message', (event) => {
