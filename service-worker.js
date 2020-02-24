@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/precache-manifest.30e41c6e4ebc8bd4fe5fedd946067e82.js"
+  "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/precache-manifest.91c9cad18ba8ed0bf2847988f29c8add.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Dasol_React_Current_Weather_With_Open_Weather_Map_API/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });

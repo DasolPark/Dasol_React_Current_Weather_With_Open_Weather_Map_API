@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/css/main.406b7b89.chunk.css",
-    "main.js": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/main.af6ccf86.chunk.js",
-    "main.js.map": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/main.af6ccf86.chunk.js.map",
-    "runtime-main.js": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/runtime-main.cc13f005.js",
-    "runtime-main.js.map": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/runtime-main.cc13f005.js.map",
-    "static/js/2.f53ce05b.chunk.js": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/2.f53ce05b.chunk.js",
-    "static/js/2.f53ce05b.chunk.js.map": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/2.f53ce05b.chunk.js.map",
-    "index.html": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/index.html",
-    "precache-manifest.30e41c6e4ebc8bd4fe5fedd946067e82.js": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/precache-manifest.30e41c6e4ebc8bd4fe5fedd946067e82.js",
-    "service-worker.js": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/service-worker.js",
-    "static/css/main.406b7b89.chunk.css.map": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/css/main.406b7b89.chunk.css.map",
-    "static/js/2.f53ce05b.chunk.js.LICENSE.txt": "/Dasol_React_CurrentWeatherWithOpenWeatherMapAPI/static/js/2.f53ce05b.chunk.js.LICENSE.txt"
+    "main.css": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/css/main.406b7b89.chunk.css",
+    "main.js": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/main.e9880083.chunk.js",
+    "main.js.map": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/main.e9880083.chunk.js.map",
+    "runtime-main.js": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/runtime-main.a3ade78e.js",
+    "runtime-main.js.map": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/runtime-main.a3ade78e.js.map",
+    "static/js/2.4f10d989.chunk.js": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/2.4f10d989.chunk.js",
+    "static/js/2.4f10d989.chunk.js.map": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/2.4f10d989.chunk.js.map",
+    "index.html": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/index.html",
+    "precache-manifest.91c9cad18ba8ed0bf2847988f29c8add.js": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/precache-manifest.91c9cad18ba8ed0bf2847988f29c8add.js",
+    "service-worker.js": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/service-worker.js",
+    "static/css/main.406b7b89.chunk.css.map": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/css/main.406b7b89.chunk.css.map",
+    "static/js/2.4f10d989.chunk.js.LICENSE.txt": "/Dasol_React_Current_Weather_With_Open_Weather_Map_API/static/js/2.4f10d989.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc13f005.js",
-    "static/js/2.f53ce05b.chunk.js",
+    "static/js/runtime-main.a3ade78e.js",
+    "static/js/2.4f10d989.chunk.js",
     "static/css/main.406b7b89.chunk.css",
-    "static/js/main.af6ccf86.chunk.js"
+    "static/js/main.e9880083.chunk.js"
   ]
 }
